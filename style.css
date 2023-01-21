@@ -1,0 +1,34 @@
+.container{
+    padding:50px;
+}
+.container .part-1{
+    font-weight: 500;
+font-size: 30px;
+}
+.container .part-2{
+display:flex;
+justify-content: space-between;
+padding:10px
+   
+}
+.container .part-2 .part-2-sec img  {
+width:300px;
+height:150px
+padding:10px;
+}
+.container .part-2 .part-2-sec{
+    justify-content: space-around;
+    padding:10px;
+} 
+.part-2 .part-2-first img{
+    width:500px;
+    height:400px
+
+}
+.part-3{
+    display:flex;
+;
+}
+.part-3 .img{
+    
+}
